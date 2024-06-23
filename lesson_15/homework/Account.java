@@ -1,4 +1,4 @@
-package lesson_15.homework;
+package DZ15lesson.lesson_15.homework;
 
 public class Account {
     private String id;

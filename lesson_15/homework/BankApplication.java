@@ -1,11 +1,11 @@
-package lesson_15.homework;
+package DZ15lesson.lesson_15.homework;
 
 
 
 
-import lesson_15.homework.exceptions.WrongAccountException;
-import lesson_15.homework.exceptions.WrongCurrencyException;
-import lesson_15.homework.exceptions.WrongOperationException;
+import DZ15lesson.lesson_15.homework.exceptions.WrongAccountException;
+import DZ15lesson.lesson_15.homework.exceptions.WrongCurrencyException;
+import DZ15lesson.lesson_15.homework.exceptions.WrongOperationException;
 
 import java.util.ArrayList;
 import java.util.List;
